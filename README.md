@@ -3,7 +3,7 @@ More Information About Me
 
 # Hi there 👋  
 
-I’m [Tatyana Pierce], a developer and cybersecurity professional with a unique blend of creative and technical expertise.  
+I’m Tatyana Pierce, a developer and cybersecurity professional with a unique blend of creative and technical expertise.  
 
 ## 🎓 Education  
 - **B.S. in Game Programming & Development with a minor in Graphic Deesign**  
